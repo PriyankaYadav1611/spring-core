@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\SpringCoreYoutube\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2032324167.index
+\springmvcorm\src\main\java
+D:\SpringCoreYoutube\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3141368360.index
+\springmvcorm\src\main\resources

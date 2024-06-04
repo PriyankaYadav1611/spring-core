@@ -1,0 +1,5 @@
+package springmvcorm.controller;
+
+public class HomeController {
+
+}

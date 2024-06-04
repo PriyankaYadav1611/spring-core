@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\SpringCoreYoutube\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1045737677.index
+2410614004.index
+2500971721.index
+1123425948.index
+3121713089.index
+2032324167.index
